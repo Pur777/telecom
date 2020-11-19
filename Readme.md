@@ -1,0 +1,1 @@
+Схема БД в файле initDataBase.sql
